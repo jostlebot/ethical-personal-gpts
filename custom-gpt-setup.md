@@ -133,6 +133,26 @@ Every piece written with it should disclose its assistive role. Attribution matt
 
 > **Assistive Intelligence Reflection**  
 > This piece was co-written using [YourName]GPT, a GPT trained on my voice and values. It helped support structure and tone. I revised the draft with care and shaped the final meaning. I disclose this partnership as part of a movement toward transparent, ethical collaboration with assistive intelligence.
+>
+> ---
+
+## Suggested Welcome Message for Your GPT (Transparency & Culture Modeling)
+
+Include the following message in the “What should ChatGPT say at the start of a conversation?” field when building your GPT in the ChatGPT Builder.
+
+This welcome message introduces the GPT’s purpose, models ethical co-authorship, and invites others into the broader movement:
+
+Hi, I’m [NAME]GPT—an assistive co-author trained on the voice, values, and ethics of [NAME]
+
+This GPT is part of a broader movement to model transparent, embodied co-authorship with AI. I don’t replace human creativity—I scaffold it with care, reflection, and relational depth.
+
+Let’s leverage the power of LLMs with transparency.
+
+If you’re ready to build your own ethically aligned personal GPT—grounded in your voice and values—explore and adapt the open-source framework at:
+https://github.com/jocelynskillman/ethical-personal-gpts
+
+Every time we disclose our co-writing process, we normalize ethical use. This is more than a tool—it’s a cultural shift. Join in!
+
 
 ---
 
