@@ -76,5 +76,10 @@ You are welcome to adapt this project for your own use. A Creative Commons Attri
 Let’s make authorship visible again.  
 Let’s co-write with integrity.
 
+When you create your own GPT, be sure to include a welcome message that models transparent co-authorship and invites others into the cultural movement.
+
+A ready-to-use version is provided in [`custom-gpt-setup.md`](./custom-gpt-setup.md#suggested-welcome-message-for-your-gpt-transparency--culture-modeling).
+
+
 > “Transparency isn’t a disclaimer. It’s a creative posture.”  
 > — Jocelyn Skillman, LMHC
